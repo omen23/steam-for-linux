@@ -6,7 +6,6 @@ The following issues are known by Valve and might impact users of the Steam for 
 
 Installation
 ------------
-* Installing the Steam for Linux .deb package on Kubuntu 64 bit requires **gdebi**. First, install the **gdebi-core** package ( **apt-get install gdebi-core**) and then install the Steam for Linux package ( **gdebi steam.deb**).
 * Steam for Linux currently supports over 30 games. There are plans for adding other games in the future. For a complete list of supported games, see [here](https://support.steampowered.com/kb_article.php?ref=8495-OKZC-0159).
 * Application files installed by Steam for Linux should not be shared (e.g. between Windows and Linux). This is a requirement of the Steam for Linux client.
 
